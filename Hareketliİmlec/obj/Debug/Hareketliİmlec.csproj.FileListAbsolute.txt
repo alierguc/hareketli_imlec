@@ -1,0 +1,10 @@
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.csprojResolveAssemblyReference.cache
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.Anaform.resources
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.Properties.Resources.resources
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.csproj.GenerateResource.cache
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.csproj.CoreCompileInputs.cache
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\bin\Debug\Hareketliİmlec.exe.config
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\bin\Debug\Hareketliİmlec.exe
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\bin\Debug\Hareketliİmlec.pdb
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.exe
+C:\Users\Ali\source\repos\Hareketliİmlec\Hareketliİmlec\obj\Debug\Hareketliİmlec.pdb
